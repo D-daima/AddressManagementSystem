@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressManagementSystem", "AddressManagementSystem\AddressManagementSystem.csproj", "{D06F0628-373A-46EA-98EB-581C40AF669E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06F0628-373A-46EA-98EB-581C40AF669E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06F0628-373A-46EA-98EB-581C40AF669E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06F0628-373A-46EA-98EB-581C40AF669E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06F0628-373A-46EA-98EB-581C40AF669E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3E5B45-E95E-441C-9775-5443200A8410}
+	EndGlobalSection
+EndGlobal
